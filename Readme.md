@@ -1,4 +1,4 @@
-#Tic Tac Toe in Python
+#Black Jack card game in Python
 
 Console based BlackJack game in Python.
 
