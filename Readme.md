@@ -6,6 +6,7 @@ Console based BlackJack game in Python.
 ## Description
 
 Python challenge: Write a text based, complete BlackJack card game.
+(Udemy Python Course)
 
 
 Requirements:
